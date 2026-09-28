@@ -1,0 +1,760 @@
+{
+  "version": 1,
+  "updated": "2026-09-28",
+  "adminPinHash": "206aadfb4b8334059c8adccdf5cff61bf54bcb70b01b66f60f6e0f89d3bdea2a",
+  "forms": {
+    "assessment": {
+      "label": "Comprehensive Assessment",
+      "url": ""
+    },
+    "visit": {
+      "label": "Care Navigator Visit",
+      "url": ""
+    },
+    "safety": {
+      "label": "Home Safety Assessment",
+      "url": ""
+    }
+  },
+  "partners": [
+    {
+      "id": "legacy",
+      "name": "Legacy",
+      "pinHash": "961bf270574422333fa0f118654cdad0ba7997a6a837468efc2cab291dbde6f8",
+      "logo": "",
+      "active": true,
+      "assessmentUrl": "",
+      "visitUrl": "",
+      "notes": "",
+      "created": "2026-09-28",
+      "safetyUrl": "",
+      "offers": {
+        "assessment": true,
+        "visit": true,
+        "safety": true
+      },
+      "announcement": "",
+      "contact": {
+        "name": "",
+        "title": "",
+        "email": "",
+        "phone": ""
+      },
+      "documents": []
+    },
+    {
+      "id": "tbni",
+      "name": "Tampa Bay Neurocognitive Institute",
+      "pinHash": "4e0ef9463eaca7991c0515b291e8d4360a873ee4796dd30378c60f8395c18866",
+      "logo": "",
+      "active": true,
+      "assessmentUrl": "",
+      "visitUrl": "",
+      "notes": "",
+      "created": "2026-09-28",
+      "safetyUrl": "",
+      "offers": {
+        "assessment": true,
+        "visit": true,
+        "safety": true
+      },
+      "announcement": "",
+      "contact": {
+        "name": "",
+        "title": "",
+        "email": "",
+        "phone": ""
+      },
+      "documents": []
+    }
+  ],
+  "announcement": "",
+  "logUrl": "",
+  "ceu": {
+    "requiredHours": "",
+    "courses": [
+      {
+        "id": "alz-029",
+        "title": "Activities at Home",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-030",
+        "title": "Approaching Sexuality and Intimacy",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/b39942a8-2853-4e8f-a78f-5737baf5e82f/alzheimers-dementia-sexuality-intimacy-changes-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-031",
+        "title": "Bathing",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/a8b736c5-2161-4f32-bcb5-2d921541e90d/alzheimers-dementia-bathing-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-032",
+        "title": "Behaviors",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/9261e8ad-3413-49c4-bd9e-7689a7deb15f/alzheimers-dementia-behaviors-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-033",
+        "title": "Care Options",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/4e4c3ca4-cc03-4ac5-9f3f-90ba4feff34c/alzheimers-dementia-care-options-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-034",
+        "title": "Caregiver Emotions",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/5a66fc66-7cb6-40e1-b3e4-75f7ea1fbaa4/alzheimers-dementia-caregiver-emotions-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-035",
+        "title": "Caregiver Stress",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/a69279ed-562a-4d84-8c0b-fd044d298550/alzheimers-dementia-caregiver-stress-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-036",
+        "title": "Choosing an Adult Day Center",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/5037578e-619c-4b67-aa6c-68e80cd32bc2/alzheimers-dementia-choosing-an-adult-day-center-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-037",
+        "title": "Choosing an In-Home Care Professional",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/33ef2492-ad0f-46fe-a77b-74ebcbf00604/alzheimers-dementia-choosing-in-home-care-professional-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-038",
+        "title": "Choosing a Residential Care Community",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/2f238875-3f5d-447e-adcc-dd9fc07f828b/alzheimers-dementia-choosing-residential-care-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-039",
+        "title": "Communication",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/4c29359a-c9f0-4ae1-8f95-27e822635ead/alzheimers-dementia-communication-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-040",
+        "title": "Dental Care",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/0531e6bc-e522-4c81-9fd1-2db5fbb97101/alzheimers-dementia-dental-care-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-041",
+        "title": "Dressing",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/3e31dbc7-baf0-4f18-9c1b-7a8779af3d17/alzheimers-dementia-dressing-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-042",
+        "title": "Eating",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/11161635-92d6-4aa3-b6dc-e0d63fcefa67/alzheimers-dementia-eating-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-043",
+        "title": "End-of-Life Decisions",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/c0e21ee5-6a76-4010-b3f6-651d6ba20c01/alzheimers-dementia-end-of-life-decisions-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-044",
+        "title": "Holidays",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/6015fb25-23bf-44ee-952e-41a1a2a87879/alzheimers-dementia-holidays-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-045",
+        "title": "Hospitalization and Discharge Planning",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/d5afc74a-9d22-4a15-9c30-6315f6eb5f35/alzheimers-dementia-hospitalization-discharge-planning-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-046",
+        "title": "Late-Stage Care",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/633478dc-24be-47fe-8643-4640236438ef/alzheimers-dementia-late-stage-care-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-047",
+        "title": "Managing Hallucinations, Delusions and Paranoia",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/2d68efeb-87a6-46e0-886d-324a2f735382/alzheimers-dementia-hallucinations-delusions-paranoia-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-048",
+        "title": "Managing Incontinence",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/03a48246-6a49-4ee3-8249-39280774f777/alzheimers-dementia-incontinence-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-049",
+        "title": "Managing Sundowning",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/d929574d-96ab-4d27-9da9-1224cbc19233/alzheimers-dementia-sundowning-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-050",
+        "title": "Online Caregiver Resources",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/cdebc739-403e-4fac-ad96-ab36f1ec42b4/alzheimers-dementia-online-caregiver-resources-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-051",
+        "title": "Personal Care",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/ea0c6f66-8c03-47a4-ad7f-3d42eff88da7/alzheimers-dementia-personal-care-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-052",
+        "title": "Working With Staff in a Nursing Home or Assisted Living Community",
+        "hours": 1,
+        "category": "Caregiving",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/32bb60ce-1516-4b09-9d66-03dcf0fe73aa/alzheimers-dementia-working-with-staff-facilities-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-053",
+        "title": "Applying for Social Security Disability and SSI Benefits Due to Younger-Onset Alzheimer's",
+        "hours": 1,
+        "category": "Financial and legal",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/69ae2aac-9759-4a6f-a36a-3c34a1394497/alzheimers-dementia-social-security-disability-insurance-ssdi-checklist-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-054",
+        "title": "Know a Resident's Rights in a Care Community and When to Speak Up",
+        "hours": 1,
+        "category": "Financial and legal",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/b27f1ab7-6b91-40da-a598-13bc70be7b5f/alzheimers-dementia-know-care-rights-in-facility-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-055",
+        "title": "Planning Ahead for Long-Term Care Expenses",
+        "hours": 1,
+        "category": "Financial and legal",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/64e512db-efb7-4ab2-9839-4ab0cdeb3995/alzheimers-dementia-plan-ahead-long-term-care-expenses-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-056",
+        "title": "Planning for the Future: Legal, Financial and Care Considerations",
+        "hours": 1,
+        "category": "Financial and legal",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/bc3fe9be-dab4-4b8e-9cd9-ed9f9f57d381/alzheimers-dementia-planning-for-the-future-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-057",
+        "title": "Tax Credits and Deductions",
+        "hours": 1,
+        "category": "Financial and legal",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/b8bd4637-3215-46ac-8c6d-61968ebb6ccc/alzheimers-dementia-state-federal-tax-credits-deductions-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-058",
+        "title": "10 Ways to Help a Family Living with Alzheimer's",
+        "hours": 1,
+        "category": "Living with dementia",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/813e141d-f5d5-4842-ac3b-819bd5fb07a6/alzheimers-dementia-10-ways-to-help-a-family-living-with-alzheimers-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-059",
+        "title": "Communicating with Doctors or Health Care Professionals",
+        "hours": 1,
+        "category": "Living with dementia",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/6424b21e-d47c-4d88-a8e7-2dc1a497b304/alzheimers-dementia-communicating-with-your-health-care-team-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-060",
+        "title": "LGBTQ+ Older Adults and Dementia",
+        "hours": 1,
+        "category": "Living with dementia",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/9fd83ee3-2ba5-46d5-83e0-b8213562ae46/alzheimers-dementia-lgbtq-older-adults-and-dementia-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-061",
+        "title": "Living with Alzheimer's Disease",
+        "hours": 1,
+        "category": "Living with dementia",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/2f54ae30-1162-4324-a51c-cfd78ea46914/alzheimers-dementia-living-with-alzheimers-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-062",
+        "title": "Living with Younger-Onset Alzheimer's",
+        "hours": 1,
+        "category": "Living with dementia",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/2ab7b94c-d395-477b-9d79-25f0e47d5ace/alzheimers-dementia-living-with-younger-onset-alzheimers-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-063",
+        "title": "Online Resources",
+        "hours": 1,
+        "category": "Living with dementia",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/21da7995-29cc-4ca2-9b93-1608b6f2e2ac/alzheimers-dementia-online-resources-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-064",
+        "title": "Tips for Living Day to Day",
+        "hours": 1,
+        "category": "Living with dementia",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/aa5bc1ed-0efa-4db2-b642-f54a7fec5df8/tips-for-daily-life-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-065",
+        "title": "You Are Not Alone: Considerations and Resources After a Diagnosis",
+        "hours": 1,
+        "category": "Living with dementia",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/d0be59aa-2b93-4311-8193-510bfaafb7cc/alzheimers-resources-for-diagnosed-person-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-066",
+        "title": "Medicare Savings Programs (QMB, SLMB, QI, QDWI)",
+        "hours": 1,
+        "category": "Medicare",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/471c2010-a408-44e8-847c-6574226e2a64/alzheimers-dementia-medicare-savings-programs-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-067",
+        "title": "Choosing a Medicare Drug Plan",
+        "hours": 1,
+        "category": "Medicare",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/712a50b4-8c66-45fb-a462-33e0f2d5ad82/alzheimers-dementia-choosing-medicare-drug-plan-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-068",
+        "title": "Fee-for-Service Medicare for People Living with Alzheimer's",
+        "hours": 1,
+        "category": "Medicare",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/0ec76c59-63df-44a7-8dba-12be55d1de61/alzheimers-dementia-medicare-fee-for-service-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-069",
+        "title": "Medicare Annual Wellness Visit",
+        "hours": 1,
+        "category": "Medicare",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/21fe7881-3363-4a1e-84ff-40ddd0828747/factsheet-medicare-annual-wellness-visit-2017.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-070",
+        "title": "Medicare Coverage of Care Planning for People with Cognitive Impairment",
+        "hours": 1,
+        "category": "Medicare",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/bb0bd74f-e7f1-4482-ba3f-7fe7b9182f7e/alzheimers-dementia-medicare-coverage-for-careplanners-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-071",
+        "title": "Medicare Home Health Training for Dementia Caregivers",
+        "hours": 1,
+        "category": "Medicare",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/ae5f74b9-1226-4ba5-b687-0926a05dc99f/alzheimers-dementia-medicare-benefit-for-caregiver-training-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-072",
+        "title": "Medicare's Hospice Benefit",
+        "hours": 1,
+        "category": "Medicare",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/4d551ed8-8a02-4280-be33-15edd54782a7/alzheimers-dementia-medicare-hospice-benefit-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-073",
+        "title": "Original Medicare: An Outline of Benefits",
+        "hours": 1,
+        "category": "Medicare",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/56994659-c2ce-4fb7-b916-388101aa2f62/alzheimers-dementia-medicare-benefits-outline-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-074",
+        "title": "If Medicare Refuses to Pay for a Medical Service",
+        "hours": 1,
+        "category": "Medicare",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/a14dcce6-f95f-4b0c-a315-2dde7b1ec68b/alzheimers-dementia-medicare-refuse-to-pay-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-075",
+        "title": "Emergency Preparedness",
+        "hours": 1,
+        "category": "Safety",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/72966bd2-1991-4e24-949c-9fa12130d945/alzheimers-dementia-emergency-preparedness-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-076",
+        "title": "Driving Information and Contract",
+        "hours": 1,
+        "category": "Safety",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/9d7671f6-4df4-4457-a934-488185a69623/alzheimers-dementia-driving-info-contract-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-077",
+        "title": "Firearm Safety",
+        "hours": 1,
+        "category": "Safety",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/14487c72-a3c2-4813-ad9e-1e0ff94ac3c4/alzheimers-dementia-firearm-safety-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-078",
+        "title": "Home Safety Checklist",
+        "hours": 1,
+        "category": "Safety",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/21dca460-a318-4f7d-b1c0-830ac91fc87c/alzheimers-dementia-home-safety-checklist-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-079",
+        "title": "Medication Safety",
+        "hours": 1,
+        "category": "Safety",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/15387dcd-33b1-4ca3-92b1-097e2e7a0950/alzheimers-dementia-medication-safety-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-080",
+        "title": "Planning for Emergency or Disaster Situations in a Residential Community",
+        "hours": 1,
+        "category": "Safety",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/85af3acc-3c5e-480f-88ff-249a04f60713/alzheimers-dementia-pandemic-emergency-disaster-residential-planning-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-081",
+        "title": "Staying Safe: Steps to Take for a Person Living with Dementia",
+        "hours": 1,
+        "category": "Safety",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/c346e7c4-0e1a-44b6-aafb-a767ebe1f585/alzheimers-dementia-staying-safe-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-082",
+        "title": "Traveling",
+        "hours": 1,
+        "category": "Safety",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/bac52bbe-9da2-4db3-8028-562d27572dc5/alzheimers-dementia-travel-safety-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-083",
+        "title": "Wandering and Getting Lost",
+        "hours": 1,
+        "category": "Safety",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/e4480fd3-e7fe-4bcb-81b3-30066c57de7f/alzheimers-dementia-wandering-behavior-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-084",
+        "title": "Alzheimer's Association TrialMatch",
+        "hours": 1,
+        "category": "Treatments and clinical trials",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/4488e6f2-4c8b-4614-863b-f73a51655bb0/trial-match-fact-sheet.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-085",
+        "title": "Clinical Trials: Myths vs. Facts",
+        "hours": 1,
+        "category": "Treatments and clinical trials",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/8ea51329-796d-42f5-9539-c589788148b0/alzheimers-dementia-trialmatch-myths-vs-facts-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-086",
+        "title": "Navigating Treatment Options",
+        "hours": 1,
+        "category": "Treatments and clinical trials",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/fe3e60e4-aeab-4e97-a2f3-5ab36b208c77/alzheimers-dementia-navigating-treatment-options-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-087",
+        "title": "Participating in Clinical Studies",
+        "hours": 1,
+        "category": "Treatments and clinical trials",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/5b745a10-5e83-4d63-8aa6-b6713359c221/alzheimers-trials-clinical-studies-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-088",
+        "title": "Treatments for Alzheimer's Disease",
+        "hours": 1,
+        "category": "Treatments and clinical trials",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/4f4ca289-a2c6-4df9-8cdf-390365bd477e/alzheimers-dementia-fda-approved-treatments-for-alzheimers-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-089",
+        "title": "Treatments and Research",
+        "hours": 1,
+        "category": "Treatments and clinical trials",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/a641c0c3-d124-444c-8eef-94059f5fd3a3/alzheimers-dementia-disease-treatments-and-research-ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      },
+      {
+        "id": "alz-090",
+        "title": "When Clinical Trials End",
+        "hours": 1,
+        "category": "Treatments and clinical trials",
+        "description": "",
+        "file": "",
+        "url": "https://www.alz.org/getmedia/ab9e521f-8573-4e14-8d0e-a337c54b8ed4/when_clinical_trials_end_ts.pdf",
+        "source": "Alzheimer's Association",
+        "added": "2026-09-28"
+      }
+    ]
+  }
+}
