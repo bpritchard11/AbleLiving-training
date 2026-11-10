@@ -1,0 +1,47 @@
+:root{
+  /* base palette — drawn from the forget-me-not */
+  --navy:#122F52;
+  --navy-2:#1C3F6B;
+  --blue:#87AEDF;
+  --blue-soft:#C9DBF1;
+  --sage:#47533C;
+  --leaf:#566B40;
+  --gold:#F8CB27;
+  --paper:#FBFAF6;
+  --mist:#F1F4F2;
+  --line:#E3E2DA;
+  --ink:#23291F;
+  --white:#FFFFFF;
+  --rust:#9A5A3B;
+  --rust-strong:#B23B3B;
+
+  /* semantic aliases */
+  --text-primary:var(--navy);
+  --text-body:var(--ink);
+  --text-muted:var(--sage);
+  --text-on-dark:var(--white);
+  --text-on-dark-muted:var(--blue-soft);
+  --text-link:var(--leaf);
+  --text-link-hover:var(--navy);
+
+  --surface-page:var(--paper);
+  --surface-raised:var(--white);
+  --surface-sunken:var(--mist);
+  --surface-tint:var(--blue-soft);
+  --surface-dark:var(--navy);
+  --surface-dark-gradient:linear-gradient(135deg,var(--navy),var(--navy-2));
+  --surface-accent:var(--leaf);
+
+  --border-default:var(--line);
+  --border-on-dark:rgba(255,255,255,.18);
+
+  --accent-primary:var(--blue);
+  --accent-secondary:var(--leaf);
+  --accent-warm:var(--gold);
+
+  --state-success:var(--leaf);
+  --state-warning:var(--rust);
+  --state-danger:var(--rust-strong);
+
+  --focus-ring:0 0 0 3px rgba(135,174,223,.45);
+}
